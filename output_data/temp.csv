@@ -1,41 +1,71 @@
 Input,Target,Progression
-"It's too early to tell,but we're doing everything we can.","I know this is hard,but we just need to wait and see how things progress. You've been here all night,try and get some rest. We'll keep you updated. ",N
-"We're running some tests to try and pinpoint the cause. ","It just happened so fast,one minute we were laughing,the next its just not fair What if we never figure out what happened ",I
-"We're monitoring them closely. There have been some small improvements.","Small improvements  What does that even mean  Will they be okay  How long will this take",I
-"It's too early to say for sure,but we're hoping to have a better understanding soon.","This is agonizing.  Every minute feels like an eternity. I need to know whats going on ",I
-"We understand your concern. We're doing everything we can to get them the best possible care.","I need to believe that. I need to know you're doing everything you can.",D
-"We've stabilized their condition for now.","Oh,thank God. Thank you. That's a relief. So they're out of the woods",D
-"It's a step in the right direction,but we're still monitoring them closely.","Okay,okay. So,what happens now  What's the next step When can I see them ",N
-"We'll need to run some more tests to get a clearer picture.","More tests But you just said they're stable What's going on Is something wrong",I
-"It's just a precaution,to make sure we're on the right track.","I just want them to wake up. I need to know they're going to be okay.",I
-"We're all hoping for the best. We'll keep you updated as we learn more.","I'm trying to stay positive but this is just so hard. ",D
-"The surgery went well,they're currently in recovery.","Oh,thank goodness When can I see them I need to see with my own eyes that everything is okay.",N
-"They're still sedated,it'll be a few hours before they're fully awake. ","A few hours That seems like forever. What if something happens while they're asleep",I
-"We have a dedicated team monitoring them around the clock,there's no need to worry.","I can't help but worry This whole situation has been so terrifying",I
-"I understand your concern,it's perfectly normal to feel anxious after a major surgery.","I'm trying to stay strong,but it's hard not to let my mind race. ",D
-"We'll let you know as soon as they're awake and you can see them.","Thank you,doctor. I just want to see them with my own eyes. ",D
-"The test results came back and they show some irregularities.","Irregularities What does that mean Is it serious",I
-"We're still analyzing the results,but it could indicate a need for further treatment. ","Further treatment On top of everything else This is just too much. ",I
-"We want to be thorough and make sure we address everything properly.","I just feel so helpless. I want to do something,anything to help. ",I
-"The best thing you can do right now is to stay positive and supportive.","It's hard to stay positive when you keep giving me bad news. ",D
-"We understand this is a difficult time,but we're committed to providing the best possible care.","I need to believe that. I need to know you're doing everything you can.",D
-"They've been through a lot,but they're showing great resilience.","That's good to hear. They've always been a fighter. ",N
-"They're still a bit weak,but their spirits are high,which is a positive sign. ","That's my friend,always looking for the silver lining  But seriously,what's next ",N
-"We're discussing next steps with the team and will keep you informed.","What does that even mean What kind of next steps This is all so vague. ",I
-"We want to ensure they're getting the most appropriate treatment for their condition.","I just want to know what to expect. This uncertainty is agonizing.",I
-"We'll have a clearer picture for you soon,once we've finalized the plan.","Okay,I'm trying to be patient. It's just hard when you care about someone so much.",D
-"They're making good progress and are in good spirits.","That's so good to hear I knew they could pull through this ",D
-"They're even talking about going home soon,which is a great sign.","Going home Really Oh,that's wonderful news I bet they can't wait.",D
-"We'll monitor their progress over the next few days to make sure they're ready.","Of course,of course. We just want them to be healthy and strong. ",N
-"We're all very happy with their recovery so far.","Me too  This is such a huge relief  I can't wait to see them at home.",D
-"We'll keep you updated on the discharge plan as things progress.","Thank you,doctor.  This is the best news I've heard all week  ",D
-"We've completed the initial assessment,and they're resting comfortably now.","Resting comfortably That sounds good,but what does it mean for their condition",N
-"It's still too early to give a definitive diagnosis,we need to run some tests.","Tests What kind of tests How long will that take What if it's something serious",I
-"We'll have a clearer picture once we have the test results,which shouldn't take long.","Shouldn't take long What does that even mean  Hours Days This is so stressful ",I
-"We understand your concern,but rest assured we're doing everything we can.","Everything you can But you don't even know what's wrong yet ",I
-"We'll keep you informed as we learn more. In the meantime,try to stay positive.","Positive How can I be positive when I'm drowning in uncertainty ",D
-"They've had a comfortable night,their vitals are stable.","That's good... I guess. But what about the bigger picture What's the plan",N
-"We're developing a treatment plan based on their condition and needs.","What does that even mean  This is all so vague.  What's the next step",I
-"We're taking things one step at a time,focusing on what's best for them right now.","One step at a time  I need more than that. I need concrete answers. ",I
-"We'll discuss the specifics with you as soon as we have a clearer picture.","A clearer picture When will that be This waiting is unbearable. ",I
-"We appreciate your patience and understanding as we work through this process.","Patience It's hard to be patient when you're worried sick",D
+"It's great to see them awake and alert today","Oh,that's wonderful I was so worried yesterday. This is the best news I've heard all week.",N
+"They're really responding well to the treatment. We're very happy with their progress.","That's such a relief  You have no idea how much this means to me,you guys are miracle workers",D
+"They even managed a few steps with the physiotherapist this morning. ","Wow,really Just yesterday they seemed so weak,that's incredible ",D
+"They're definitely on the right track. It won't be long before they're back home.","I can't wait to get them home and spoil them rotten I'm so grateful for everything you've done.",D
+"We're all rooting for them  Just keep up the good work,they're a fighter.","Thanks,doctor. Hearing that from you gives me so much hope. We'll be celebrating soon",D
+"Your friend is doing much better today. The surgery was a success,and they're recovering well.","Oh,thank goodness That is such a relief to hear.  I've been so worried sick.",N
+"They're already talking and asking for food,which are great signs.","That's amazing They were so scared going into this whole thing,I'm so glad they're feeling better.",D
+"They'll need to stay with us for a little while longer,but they're in good spirits.","Of course,whatever it takes.  I just want them to be healthy and happy again. ",D
+"We're keeping a close eye on them,and they're making great progress every day.","Thank you so much for taking such good care of them.  You have no idea how much I appreciate it.",D
+"They're lucky to have a friend like you looking out for them. We'll get them back on their feet in no time.","I'm always here for them. I can't wait to see them back to their old self",D
+"Your loved one is awake and talking  They're still a bit groggy,but they're doing well.","Oh,doctor,that's the best news I've heard all day  Thank you for calling me.",N
+"They're asking about you and can't wait to see you.","Oh bless their heart  I'll be there as soon as I can. I've been so worried.",D
+"They're still a little tired,but they're making good progress.","That's such a relief.  I know they're strong,they'll pull through this. ",D
+"We're very pleased with their recovery so far.","That makes me so happy.  Thank you for taking such good care of them. ",D
+"They're in good hands here,and we expect them to continue improving.","You have no idea how reassuring that is to hear.  I'm so grateful",D
+"Your mom is awake,and she's asking for you","Oh,that's wonderful news I've been so worried. I'll be there as soon as I can.",N
+"She's doing much better than we expected. The surgery went smoothly.","That's such a relief I was so scared for her. Thank you for taking such good care of her.",D
+"She's a little tired,but she's in good spirits and talking up a storm.","That sounds like her I can't wait to see her and make her laugh.",D
+"We're going to keep her comfortable,and she'll be back to her old self in no time.","That's all I could ask for. Thank you for giving me peace of mind.",D
+"We're all rooting for her here. She's a strong woman","I know she is. I can't wait to get her home and spoil her.",D
+"I have good news Your brother is awake and talking. He's doing much better than we expected.","Oh,thank goodness That's the best news I've heard all week I was so worried",N
+"He's still a little weak,but he's alert and even cracked a few jokes.","That's my brother Always trying to make people laugh,even in the hospital.",D
+"He's asking for you and can't wait to see you.","I'll be there as soon as I can.  I can't wait to see him smile.",D
+"We're very optimistic about his recovery. He's a fighter.","I know he is. He's got this Thank you for being so encouraging.",D
+"We'll continue to monitor him closely,but he's definitely on the mend.","I'm so relieved to hear that.  Thank you for taking such good care of him.",D
+"We have some good news  Your sister's test results came back,and they look very promising.","Oh,doctor,that is fantastic news  We were so worried.  This is such a relief.",N
+"It seems like the treatment is working,and she's responding really well.","Oh,that is just wonderful to hear  This is the best news we could have hoped for.",D
+"She's still got a long road ahead of her,but we're very optimistic.","We know it won't be easy,but we're so glad to hear she's on the right track.",D
+"She's a fighter,and we're all rooting for her","She is  We're so grateful for everything you're doing for her.",D
+"We'll continue to monitor her progress closely and make sure she gets the best possible care.","Thank you so much,doctor. You have no idea how much this means to us.",D
+"I'm happy to report that your friend is doing much better today. They're awake and alert,and their vitals are stable.","That's such wonderful news We were so worried. Thank you for calling me.",N
+"They're still a bit groggy,but they're talking and even managed a smile.","Oh,that warms my heart I can't wait to see them and cheer them up.",D
+"It seems like the medication is working,and they're responding well to treatment.","That's a huge relief We're so happy to hear they're making progress.",D
+"They're still a little weak,but we're confident they'll regain their strength soon.","We have faith in them They're strong and determined,just like always.",D
+"We'll continue to monitor them closely,and we expect them to keep improving.","Thank you for taking such good care of them.  We appreciate everything you're doing.",D
+"Your grandmother is awake and asking about you","Oh,that's fantastic  I was so worried  I'll be there as soon as I can.",N
+"She's doing much better than we anticipated. She's a strong woman","That's my grandma,tough as nails I knew she could pull through.",D
+"She's still a bit tired,but she's talking and even asked for her favorite tea.","That sounds just like her  I can't wait to see her and make her laugh.",D
+"We'll keep her comfortable,and we expect her to make a full recovery.","That's wonderful to hear.  Thank you for taking such good care of her.",D
+"She's in good spirits,and she's looking forward to seeing you.","I'm so relieved  Thank you for giving us such hopeful news",DInput,Target,Progression
+"It's great to see her smiling again","Yes,she even tried to tell me a joke today It warmed my heart to see her spirits lifting.",D
+"She's been asking about you. It seems your visits really cheer her up.","That's wonderful I can't wait to see her again. What time tomorrow would be best",N
+"She's definitely making good progress. Her energy levels are increasing.","That's fantastic news This is the best news I've heard all week.",D
+"She's been much more alert today,even engaging in conversations with the staff.","I knew she could do it She's a fighter,and I'm so proud of her progress.",D
+"She's well on her way to a full recovery. We're very pleased with her progress.","Oh,that's just the best news I can't wait to get her home and spoil her.",D
+"He's been awake more often and even asked for his favorite book.","That's so good to hear He's been missing his reading time. I'll bring him a new one tomorrow.",D
+"He's showing great signs of improvement. He's even been trying to sit up on his own","That's amazing He's been determined to get back on his feet. I knew he could do it.",D
+"He's starting to sound like his old self again,even cracking a few jokes.","That's my boy I knew that sense of humor would return. I can't wait to hear them myself.",D
+"He's making remarkable progress. We're very optimistic about his recovery.","That's wonderful to hear Thank you so much for taking such good care of him.",D
+"He's doing incredibly well. It won't be long before he's back home with you.","I can't wait for that day We all miss him terribly and are so relieved he's getting better.",D
+"She's doing much better,her color is better and she's been much more talkative.","That's such a relief  I was so worried,but this is really good news.",D
+"She's been asking about her favorite TV show. It's good to see her mind engaged again.","I knew she'd be back to her old self soon I'll be sure to update her on all the latest episodes.",D
+"She's been smiling more often. It seems her spirits are really lifting.","That's wonderful to hear I know how much she loves her shows. This is fantastic news",D
+"She's making great progress. We're very happy with how she's responding to treatment.","Oh,that's so reassuring  I knew she was strong,but this is just wonderful.",D
+"She's doing very well. We're confident she'll be back to her old self in no time.","That's music to my ears Thank you so much for everything you're doing.",D
+"He's been joking with the nurses. It's great to see his sense of humor returning.","That's so typical of him It's such a relief to hear he's back to his old self.",D
+"He's even been asking to walk around the hallway a bit. He's eager to get moving.","That's great  He's always been active,so that's really encouraging to hear.",D
+"He's regaining his strength quickly. We're very pleased with his progress.","This is wonderful news  I can't wait to see him up and about again.",D
+"He's doing wonderfully. He's even been talking about his plans for when he's home.","That's fantastic I knew he wouldn't let this keep him down for long.",D
+"He's making excellent progress. We're very optimistic about his full recovery.","That's just the best news We're all so relieved and grateful for his progress.",D
+"She's been singing along to the radio. It's heartwarming to hear her voice again.","That's so wonderful  She loves to sing. I knew she'd be back to her old self soon.",D
+"She even had a little dance in her room today. It's great to see her feeling so energetic.","That's amazing  She's always loved to dance. I'm so happy she has the energy for it.",D
+"She's making remarkable progress. Her vitality and spirit are truly inspiring.","That's just like her  She's always been full of life. It's so good to hear.",D
+"She's doing incredibly well. Her positive attitude is definitely contributing to her recovery.","She's amazing,isn't she  I knew that smile would be back soon.",D
+"She's well on her way to a full recovery. We're so happy with her progress.","This is the best news Thank you so much for taking care of her and cheering her up.",D
+"He's been cracking jokes with the nurses. It's good to see his spirits are high.","That sounds like him He always tries to make everyone laugh,even when he's not feeling his best.",D
+"He even asked for his guitar today. It seems he's eager to get back to playing.","That's fantastic  Music is his passion. I'm so glad he's feeling up to it.",D
+"He's regaining his strength and his spirit. We're very pleased with his progress.","That's wonderful news It's such a relief to hear he's on the mend.",D
+"He's doing really well. He's even been talking about getting back to his woodworking projects.","That's great He loves working with his hands. I know he's itching to get back to it.",D
+"He's making a fantastic recovery. His positive attitude is truly remarkable.","He's always been a fighter. I knew he wouldn't let this get him down.",D

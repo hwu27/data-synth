@@ -26,7 +26,11 @@ def generate_data(emotion):
   prompt = data_string[0:50]
   prompt += f'Continue from this dataset. Prompt: Create a CSV dataset capturing emotional conversations between a doctor and a relative/friend of a hospitalized patient. The emtional theme for this continued dataset should be {emotion}. No need to include the header in your response. Each conversation should consist of 5 paired exchanges between the doctor and relative/friend, focusing on the emotional aspect with minimal medical terminology. Please make it more than 2 sentences for the relative/friend. The dataset should include 8 unique scenarios with these details: Headers: Input (Doctors Statement), Target (Relatives Response), Progression (Stress Level: N for Neutral, D for Decreasing, I for Increasing) These stress levels should be chars and not strings. Content Requirements: Verify the CSV format, with paired exchanges on the same row and no irregular line breaks. Please ensure that each exchange pair (doctors statement and relatives response) remains on the same line within the CSV, separated by a comma. Emotional intensity should be captured in the relatives/friends responses, progressing through various stress levels over the 5 exchanges. Each scenarios 5 exchanges should have a consistent overarching theme, but vary significantly between the 8 different scenarios. This means a total of 40 lines of data. No repetition of exact phrases or replicated scenarios is allowed across the entire dataset. All dialogue lines should be enclosed in quotes to maintain clarity and formality. Output Format: The dataset should be formatted properly for training an NLP model, with no informal symbols or unexpected characters. Generate around 40 total lines of paired doctor/relative exchanges, constituting 8 distinct multi-exchange scenarios. Ensure diverse emotional tones and logical progression of stress levels within each scenarios exchanges. Aim for realistic, contextually appropriate conversations without overly specific personal details (no names). Double check that all 8  scenarios are completely unique with no unintended repetition. Note, you often start to separate these responses towards the end of the conversation, make sure this does not happen. Generate the full 8 scenario CSV dataset adhering to these instructions. Note, I do not want a sample, an example, or explanation, I want the entire CSV dataset.'
 
-  file = open('./output_data/data.csv', 'a')
+  os.makedirs(f'./output_data/{emotion}', exist_ok=True)
+  file = open(f'./output_data/{emotion}/{emotion}_data.csv', 'a')
+  if (os.stat(f'./output_data/{emotion}/{emotion}_data.csv').st_size == 0):
+    file.write('Input,Target,Progression\n')
+
   iterations = 1 # change iterations based on how many lines you want
 
   for _ in range(iterations):
@@ -35,9 +39,9 @@ def generate_data(emotion):
     file.write(cleaned_response)
     time.sleep(5)
   file.close()
-  process_csv('data.csv', 'processed_data.csv')
+  process_csv(f'./output_data/{emotion}/{emotion}_data.csv', f'./output_data/{emotion}/{emotion}_processed_data.csv')
 
 # choose an emotion here
-generate_data('anxious')
+generate_data('happy')
 
 
