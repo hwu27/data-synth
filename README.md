@@ -17,8 +17,9 @@ However, there were a few problems with generative AI.
 3. You need to parse your data for problems, process them, and then spit out a clean dataset
 
 
-If these problems aren't addressed, you will end up with a dataset that will not be fit for training, resulting in high loss, especially in the evaluation stage.
-By combining the power of pandas and regex, we can create a powerful pipeline from a single prompt to a working dataset.
+If these problems aren't addressed, you will end up with a dataset that will not be fit for training, resulting in high loss, especially in the evaluation stage. It is important to test out how many requests you
+want to make at a time, and how many lines of data you want to generate. Tweak these settings like iteration in the code and line number in the prompt to see what type of data is spit out.
+By combining this with the power of pandas and regex, we can create a powerful pipeline from a single prompt to a working dataset.
 The data synthesizer was used for my mediresponse project, but it can be changed to be used for any project.
 
 
