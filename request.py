@@ -17,7 +17,7 @@ for m in genai.list_models():
   if 'generateContent' in m.supported_generation_methods:
     print(m.name)
 """
-"""
+
 def generate_data(emotion):
   model = genai.GenerativeModel('gemini-1.5-pro-latest')
   data = pd.read_csv('./input_data/sample.csv', skipinitialspace=True)
@@ -43,10 +43,9 @@ def generate_data(emotion):
 
 # choose an emotion here
 generate_data('surprise')
-"""
-emotion = 'surprise'
 
-process_csv(f'./output_data/{emotion}/{emotion}_data.csv', f'./output_data/{emotion}/{emotion}_processed_data.csv')
+#emotion = 'surprise'
+#process_csv(f'./output_data/{emotion}/{emotion}_data.csv', f'./output_data/{emotion}/{emotion}_processed_data.csv')
 
 
 

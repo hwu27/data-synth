@@ -17,4 +17,4 @@ def process_csv(input_file_path, output_file_path):
     df.to_csv(output_file_path, index=False, header=False, quoting=csv.QUOTE_NONNUMERIC) # adds qutoes around every column
     file.close()
 
-process_csv('./output_data/surprise/surprise_data.csv', 'test.csv')
+#process_csv('./output_data/surprise/surprise_data.csv', 'test.csv')
